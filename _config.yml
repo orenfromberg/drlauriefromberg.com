@@ -23,7 +23,7 @@ email: libertyfallsvetclinic@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Dr. Laurie Fromberg is a veterinarian in the greater Washington DC region.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://drlauriefromberg.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.drlauriefromberg.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: LFrombergDVMMPH
 # github_username:  jekyll
 
