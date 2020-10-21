@@ -4,7 +4,7 @@ title:  "UPDATE: 10/19 Dr. Fromberg moving to Liberty Falls Veterinary Clinic"
 date:   2020-10-11 20:13:04 -0400
 categories: updates
 ---
-As of October 19, 2020, Dr. Fromberg will be seeing clients at Liberty Falls Veterinary Clinic.
+As of October 19, 2020, Dr. Fromberg will be seeing clients at [Liberty Falls Veterinary Clinic](http://www.libertyfallsvet.com/about-us/dr-fromberg/).
 
 8924 Liberty Lane
 
